@@ -1,7 +1,5 @@
 # GameMacroBot
-## Descrição:
-GameMacroBot.py é um script Python projetado para automação em jogos como Roblox e Free Fire (2021). Ele implementa aimbot (mira automática), auto-click (para farming), auto-farm (movimentos repetitivos) e macros de movimento (ex.: pulos, speed boost). Usa PyAutoGUI para simular inputs, OpenCV para detecção de tela e Tkinter para uma GUI de configuração. O script é voltado para testes educacionais em ambientes privados.
-Aviso Importante: Este script é para uso educacional e em ambientes privados (ex.: emuladores). Automação em jogos pode violar os Termos de Serviço de Roblox e Free Fire, resultando em banimentos. Use com responsabilidade.
+
 ## Funcionalidades:
 Aimbot: Detecta alvos na tela (ex.: inimigos em vermelho) usando OpenCV e simula cliques com PyAutoGUI.
 Auto-Click: Realiza cliques automáticos para farming (ex.: coletar recursos).
